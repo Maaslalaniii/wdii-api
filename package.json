@@ -1,0 +1,15 @@
+{
+  "name": "wdii",
+  "version": "1.0.0",
+  "description": "A simple webscraper to retrieve the day of VPCI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maas Lalani",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio-req": "^1.1.0"
+  }
+}
