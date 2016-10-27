@@ -4,7 +4,7 @@ A service that returns JSON data based on the current day and events of VPCI.
 
 ### How to preview
 ```
-$ git clone https://github.dwadcom/Maaslalaniii/wdii-api.git  
+$ git clone https://github.com/Maaslalaniii/wdii-api.git  
 $ cd ~/wdii-api  
 $ npm install  
 $ node server  
