@@ -1,5 +1,5 @@
 # wdii-api
-What day is it? Unofficial API for opan.cf/day.  
+What day is it? Unofficial API for [opan.cf/day](http://www.opan.cf/day/).  
 A service that returns JSON data based on the current day and events of VPCI.
 
 ### How to preview
